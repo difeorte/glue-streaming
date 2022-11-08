@@ -1,4 +1,4 @@
-# AWS Glue Streaming examples with both native and Spark Structured Streaming S3 and MSK sources and sinks
+# AWS Glue Streaming examples with both native S3 and MSK connectors, and Spark Structured Streaming S3 and MSK sources and sinks
 
 Pyspark scripts in AWS Glue streaming to cover the following use cases:
 
